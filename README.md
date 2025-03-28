@@ -6,7 +6,7 @@
 - Always ready for new collaborations and participation in development. Ready to learn new things and gain new experiences.
 ---
 ## My cotnacts:
-- Telegream: @feel_less
+- Telegream: @feel_lesss
 
 <!---
 Luka-Mori/Luka-Mori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
