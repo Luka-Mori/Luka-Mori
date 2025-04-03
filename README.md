@@ -12,8 +12,6 @@
 ## My cotnacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)](https://t.me/feel_lesss) - @feel_less
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luka-Mori&show_icons=true&theme=radical)
 
 <!---
 Luka-Mori/Luka-Mori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
